@@ -1,0 +1,5 @@
+stop_id,slope_gradient,safety_score,lighting_level,behavioral_cost,compliance_flag
+NODE_4A_WEST_TYVOLA,9.50,4,12.5,1.25,FAIL_ADA_SLOPE
+NODE_4B_CLANTON,4.10,8,45.0,0.00,PASS
+NODE_4C_I77_OVERPASS,8.90,3,8.0,2.10,FAIL_ADA_SLOPE
+NODE_4D_BILLY_GRAHAM,2.50,9,60.0,0.00,PASS
