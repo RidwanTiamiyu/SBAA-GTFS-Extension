@@ -1,0 +1,5 @@
+stop_id,slope_gradient,safety_score,lighting_level,behavioral_cost,compliance_flag
+EDEN_MAIN_TRANSIT,2.10,7,55.0,0.00,PASS
+REIDSVILLE_HEALTH_CENTER,3.40,6,12.0,1.50,PASS
+WENTWORTH_COUNTY_HUB,1.50,8,40.0,0.00,PASS
+ELLISBORO_RURAL_STOP,9.10,4,8.0,2.75,FAIL_ADA_SLOPE
